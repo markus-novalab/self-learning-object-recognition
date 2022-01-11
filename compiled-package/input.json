@@ -1,0 +1,11 @@
+{
+  "id": "0",
+  "name": "none",
+  "attributes": {
+    "publishingYear": ["1935"],
+    "authors": ["2"],
+    "pages": ["384"],
+    "chapters": ["35"]
+  },
+  "stringAttributes": ["electronic"]
+}

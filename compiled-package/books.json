@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Harry Potter and the Philosophers Stone",
+    "attributes": {
+      "publishingYear": ["1997"],
+      "authors": ["1"],
+      "pages": ["223"],
+      "chapters": ["17"]
+    },
+    "stringAttributes": ["electronic"]
+  },
+  {
+    "id": "2",
+    "name": "Двенадцать стульев. Золотой теленок. Светлая личность",
+    "attributes": {
+      "publishingYear": ["1928"],
+      "authors": ["2"],
+      "pages": ["384"],
+      "chapters": ["43"]
+    },
+    "stringAttributes": ["electronic", "paper"]
+  }
+]
